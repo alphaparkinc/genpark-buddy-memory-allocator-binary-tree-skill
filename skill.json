@@ -1,0 +1,20 @@
+{
+  "name": "genpark-buddy-memory-allocator-binary-tree-skill",
+  "version": "1.0.0",
+  "description": "Binary buddy system memory allocator managing power-of-two blocks, coalescing, and split operations",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "buddy-allocator",
+    "binary-buddy",
+    "memory-allocation",
+    "coalescing",
+    "power-of-two",
+    "python-standard-library",
+    "agent-skills",
+    "operating-systems",
+    "system-programming",
+    "heap-management"
+  ]
+}
