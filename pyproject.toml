@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-buddy-memory-allocator-binary-tree-skill"
+version = "1.0.0"
+description = "Binary buddy system memory allocator managing power-of-two blocks, coalescing, and split operations"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
