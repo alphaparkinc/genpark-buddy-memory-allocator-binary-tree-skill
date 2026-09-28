@@ -1,0 +1,6 @@
+name: genpark-buddy-memory-allocator-binary-tree-skill
+version: 1.0.0
+description: Binary buddy system memory allocator managing power-of-two blocks, coalescing, and split operations
+command: python
+args:
+  - mcp_server.py
